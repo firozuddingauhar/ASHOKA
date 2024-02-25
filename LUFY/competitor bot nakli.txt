@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+        <title>Interact</title>
+        <link rel="shortcut icon" type="image/png" href="https://collect.chat/assets/images/favicon.png"/>
+        <meta name="description" content="Interact with our chatbot."/>
+        <meta name="twitter:card" value="summary"/>
+        <meta property="og:description" content="Interact with our chatbot."/>
+        <meta property="og:title" content="Interact"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:image" content="https://meta.collect.chat/og-image/650d72328a3fde15c3ecf17c"/>
+        <meta property="og:image:width" content="620"/>
+        <meta property="og:image:height" content="541"/>
+        <link rel="alternate" type="application/json+oembed" href="https://collect.chat/forms-embed?url=https://chatbot.page/650d72328a3fde15c3ecf17c" title="Collect.chat Embed"/>
+        <link rel="stylesheet" type="text/css" href="/styles/common.css"/>
+        <link rel="stylesheet" type="text/css" href="/styles/personal.css"/>
+        <link rel="stylesheet" type="text/css" href="/styles/fontawesome.min.css"/>
+        <style type="text/css">
+            .background {
+                background-image: url(https://uploads.collectcdn.com/backrgound/5a2630c2a9dd3526de603e10.jpg);
+                background-size: cover;
+                background-repeat: no-repeat;
+                z-index: 0;
+            }
+
+            .title {
+                color: #ffffff !important;
+            }
+
+            .fab {
+                color: #ffffff;
+            }
+
+            .fas {
+                color: #ffffff;
+            }
+
+            .fa {
+                color: #ffffff;
+            }
+
+            .subtitle, .powered-by .powered-title {
+                color: #ffffff;
+            }
+
+            .showIfBackgroundImage {
+                display: block;
+            }
+
+            .logo {
+                background-color: initial;
+            }
+        </style>
+        <link rel="canonical" href="https://chatbot.page/650d72328a3fde15c3ecf17c"/>
+        <script>
+            // Redirect links.cc if chatbot page exists
+            var formLink = 'https://chatbot.page/650d72328a3fde15c3ecf17c';
+            var isInIframe = parent !== window;
+
+            if (!isInIframe && window.location.href.indexOf('links.collect.chat') !== -1 && window.location.href.indexOf(formLink) === -1) {
+                window.location.href = formLink + window.location.search;
+            }
+        </script>
+        <script type="text/javascript">
+            window.form = {
+                "config": {
+                    "timezone": {
+                        "offset": 5.5,
+                        "tz": "Asia/Kolkata",
+                        "text": " IST"
+                    },
+                    "formName": "Copy of legal service",
+                    "sendAllResponses": false,
+                    "sendAllResponsesQuestion": "",
+                    "subjectData": "monthlyCount",
+                    "noSave": false,
+                    "customQuestions": [],
+                    "widgetShowOn": "all",
+                    "usageType": "embed",
+                    "userPlan": "plus",
+                    "userReachPlan": "free",
+                    "maxUploadSize": 10,
+                    "subjectTitle": "New response from Collect.chat",
+                    "emailConditions": [],
+                    "emailDisabled": false,
+                    "avatarLauncher": true,
+                    "position": "left",
+                    "avatar": "https://avatars.collectcdn.com/a19.png",
+                    "url": "legal-advice.com",
+                    "name": "Chat now",
+                    "color": "#4e86b1",
+                    "startMessage": "20BF5258-17DB-459E-BAB0-7F857144C0AA",
+                    "from": "collect.chat",
+                    "brandText": "Chat <span class=\"em emj107\"></span> by <b>Collect.chat</b>",
+                    "brandUrl": "https://collect.chat"
+                },
+                "userExperienceConfig": {
+                    "widgetButton": "launcher"
+                },
+                "userTargetingConfig": {
+                    "pageRules": {
+                        "showUrls": [],
+                        "hideUrls": []
+                    },
+                    "dateConditions": {
+                        "daysOfWeek": []
+                    },
+                    "visitorRules": []
+                },
+                "links": {
+                    "background": {
+                        "backgroundType": "image",
+                        "color": "#eee",
+                        "url": "https://uploads.collectcdn.com/backrgound/5a2630c2a9dd3526de603e10.jpg"
+                    },
+                    "metaTitle": "Interact",
+                    "metaDesc": "Interact with our chatbot.",
+                    "layout": "personal",
+                    "logo": "",
+                    "cover": "https://collect.chat/assets/images/avatars.png",
+                    "title": "Need legal help?",
+                    "subTitle": "",
+                    "titleColor": "#ffffff",
+                    "metaImage": "",
+                    "social": [{
+                        "type": "whatsapp",
+                        "url": "+123"
+                    }, {
+                        "type": "envelope",
+                        "url": "hello@collect.chat"
+                    }, {
+                        "type": "phone",
+                        "url": "123"
+                    }]
+                },
+                "emailSignature": {
+                    "name": "John Doe",
+                    "company": "Creative Director at Wayne Enterprises",
+                    "phone": "+1-202-555-0149",
+                    "reachText": "reach.at/johndoe",
+                    "reachUrl": "https://reach.at/johndoe",
+                    "address": "William Ave Bedford, NY, USA",
+                    "links": [{
+                        "url": "johndoe",
+                        "type": "reach.at"
+                    }, {
+                        "url": "johndoe",
+                        "type": "facebook"
+                    }, {
+                        "url": "johndoe",
+                        "type": "twitter"
+                    }]
+                },
+                "publishDraft": true,
+                "_id": "650d72328a3fde15c3ecf17c",
+                "questions": [{
+                    "options": ["Yes"],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "label": "<div>Are you looking for legal expertise?</div>\n",
+                    "required": false,
+                    "icon": "ion-android-radio-button-on",
+                    "name": "Single Choice",
+                    "type": "option",
+                    "id": "20BF5258-17DB-459E-BAB0-7F857144C0AA"
+                }, {
+                    "options": [],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "81035EAA-7B10-4F21-AF6F-B7625D4093AD",
+                    "type": "text",
+                    "name": "Question",
+                    "icon": "ion-chatbox-working",
+                    "required": false,
+                    "label": "<div>What's your name?</div>\n"
+                }, {
+                    "options": ["Great"],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "85EBA901-92A5-4A8E-A1F1-AAB22E34681A",
+                    "type": "option",
+                    "name": "Single Choice",
+                    "icon": "ion-android-radio-button-on",
+                    "required": false,
+                    "label": "<div>We have over 10 years of experience in legal advice and consulting. So you are in safe hands</div>\n"
+                }, {
+                    "options": ["Property Law", "Conveyancing", "Commercial Law", "Family Law", "Wills & Estates", "Migrations and Visas"],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "444FCBFB-6DCE-4563-BEB6-2E6527408368",
+                    "type": "option",
+                    "name": "Single Choice",
+                    "icon": "ion-android-radio-button-on",
+                    "required": false,
+                    "label": "<div>What do you need help with?</div>\n"
+                }, {
+                    "options": [],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "6DEEFB43-E6AB-4331-AAC7-1BD5E9764195",
+                    "type": "statement",
+                    "name": "Statement",
+                    "icon": "ion-quote",
+                    "required": false,
+                    "label": "<div>Sure. We can help you with that</div>\n"
+                }, {
+                    "options": [],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "31290BE3-F49C-43DE-A61B-43CEE26F2E54",
+                    "type": "text",
+                    "name": "Question",
+                    "icon": "ion-chatbox-working",
+                    "required": false,
+                    "label": "<div>Where are you from?</div>\n"
+                }, {
+                    "options": [],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "8A76042D-3D5D-4443-94D6-F2B19CC51EEF",
+                    "type": "statement",
+                    "name": "Statement",
+                    "icon": "ion-quote",
+                    "required": false,
+                    "label": "<div>Okay</div>\n"
+                }, {
+                    "options": ["Okay"],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "F5821376-6255-4C37-B980-8AC197236F3E",
+                    "type": "option",
+                    "name": "Single Choice",
+                    "icon": "ion-android-radio-button-on",
+                    "required": false,
+                    "label": "<div>So we will get in touch with you via phone</div>\n"
+                }, {
+                    "options": [],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "D8690567-930A-4BC7-975A-799B33A9893E",
+                    "type": "text",
+                    "name": "Number",
+                    "icon": "ion-pound",
+                    "required": false,
+                    "errormsg": "Please enter a valid number",
+                    "label": "<div>Please share your phone number</div>\n"
+                }, {
+                    "options": [],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "C594183F-AF9A-486D-99D8-E45482F2E0AA",
+                    "type": "date",
+                    "name": "Date Picker",
+                    "icon": "ion-calendar",
+                    "required": false,
+                    "label": "<div>When do you want us to call you?</div>\n",
+                    "disablePast": true
+                }, {
+                    "options": [],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "6EDBC4EA-DA84-4E29-AB7C-D2B9F9DA4A96",
+                    "type": "text",
+                    "name": "Question",
+                    "icon": "ion-chatbox-working",
+                    "required": false,
+                    "label": "<div>At what time?</div>\n"
+                }, {
+                    "options": [],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "E96A78EB-9518-44BD-B4FA-978FBDFBA316",
+                    "type": "text",
+                    "name": "Email",
+                    "icon": "ion-email",
+                    "required": false,
+                    "errormsg": "Please enter a valid email address",
+                    "label": "<div>And please share your email address as well! Just incase we can't reach you by phone</div>\n",
+                    "skippable": true
+                }, {
+                    "options": [],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "F4F789E0-EF41-4737-8B0D-B627BD00E44D",
+                    "type": "statement",
+                    "name": "Statement",
+                    "icon": "ion-quote",
+                    "required": false,
+                    "label": "<div></div>\n<img src=\"https://i.pinimg.com/originals/ac/24/ec/ac24ece66bc60185a87c82b3d5be0a7e.gif\" style=\"float:none;height: auto;width: auto\"/>\n<div>Thank you</div>\n"
+                }, {
+                    "options": ["Thanks"],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "0A51ADFC-506D-4B08-986B-A1F3F780E99B",
+                    "type": "option",
+                    "name": "Single Choice",
+                    "icon": "ion-android-radio-button-on",
+                    "required": false,
+                    "label": "<div>One of our legal experts will get in touch with you shortly</div>\n"
+                }, {
+                    "options": [],
+                    "tags": [],
+                    "enableOtpValidation": false,
+                    "meetingConfig": {
+                        "availableDays": [],
+                        "bufferSlots": 0,
+                        "bufferSlotsBefore": 0
+                    },
+                    "enableRedirect": false,
+                    "openInNewWindow": false,
+                    "links": [{
+                        "sameTab": false,
+                        "type": "phone",
+                        "text": "by phone",
+                        "value": "0121 234124"
+                    }, {
+                        "sameTab": false,
+                        "type": "phone",
+                        "text": "or fax us",
+                        "value": "0123 124327"
+                    }],
+                    "conditions": [],
+                    "questionKeys": [],
+                    "id": "4640F7A9-24AE-4A76-B774-EFB3941E9F80",
+                    "type": "social",
+                    "name": "Contact",
+                    "icon": "ion-chatbubble",
+                    "required": false,
+                    "label": "<div>You can also reach us&nbsp;</div>\n"
+                }],
+                "userId": "650d6cbc17960a15b23372df",
+                "published": true,
+                "workspaceId": "650d6cbc17960a15b23372e0",
+                "integrations": [],
+                "createdAt": "2023-09-22T10:53:38.057Z",
+                "updatedAt": "2023-09-22T10:53:38.605Z",
+                "__v": 0,
+                "id": "650d72328a3fde15c3ecf17c",
+                "widget": "https://collectcdn.com/widget.js"
+            };
+            window.editMode = false;
+        </script>
+        <script src="/styles/flex-polyfill.js"></script>
+    </head>
+    <body>
+        <div class="background"></div>
+        <div class="video-bg" id="video-bg" style="display: none;">
+            <video autoplay muted loop>
+                <source src="" type="video/mp4"/>
+            </video>
+            <div class="overlay"></div>
+        </div>
+        <div class="background-overlay showIfBackgroundImage"></div>
+        <div class="wrapper row">
+            <div class="column align-center justify-center personal">
+                <div class=" logo   logo-empty " id="logo-wrapper" style="background-image: url();"></div>
+                <h1 class=" title " id="title">Need legal help?</h1>
+                <h3 class=" subtitle   subtitle-empty " id="subtitle"></h3>
+                <div id="show-social" class=" social "></div>
+            </div>
+            <div class="column">
+                <div id="root"></div>
+            </div>
+        </div>
+        <script src="/styles/common.js"></script>
+    </body>
+</html>

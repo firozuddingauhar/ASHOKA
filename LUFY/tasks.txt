@@ -1,0 +1,25 @@
+Direct Legal Support: Support persons can connect directly with pro bono lawyers
+and legal aid clinics nationwide optimised through a geo-location based personalised
+digital marketplace for legal representation.
+Comprehensive Case Dashboard: A dashboard which keeps them informed in realtime about case status, upcoming court dates, and important case updates.
+Know Your Rights : Machine Learning model finetuned on law related matters that
+can help Under trial Prisoners to make them aware about their rights.
+Financial Aid: NGOs can identify undertrial prisoners in need of financial aid for bail
+or legal fees and UTRCs for bail process.
+Efficient Case Management: Lawyers can efficiently manage multiple undertrial
+cases through a centralized dashboard.
+Real-time Case Updates: Stay informed about case progress, upcoming court dates,
+access to court proceedings and critical updates in real time.
+Increased Connectivity : Improved communication with support persons and other
+stakeholders is facilitated within the app through a secured communication channel.
+Transparency and Accountability: Provides tools for prison authorities to maintain
+transparent and accountable records of undertrial prisoners.
+Comprehensive Support: Access to mental health support, counselling services,
+educational content, and vocational training modules to promote successful
+reintegration into society.
+Vocational Training : Providing a plethora of courses in various fields in our app by
+working industry professionals.
+Rehabilitation Enrollment: NGOs can enroll undertrial prisoners for in person
+rehabilitation programs directly through the app.
+Community Building: Includes a community forum feature for users to connect with
+peers who share similar experiences
